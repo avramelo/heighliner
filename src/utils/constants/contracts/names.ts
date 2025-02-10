@@ -1,0 +1,1 @@
+export type CONTRACTS_NAME_LIST = "VAULT" | "HELPER" | "ROUTER" | "RESOLVER";
