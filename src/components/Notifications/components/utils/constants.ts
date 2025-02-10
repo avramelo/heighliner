@@ -1,0 +1,1 @@
+export const DEFAULT_DISMISS_DELAY = 5000;
